@@ -10,7 +10,8 @@ data sets.
 
 ![Sample](docs/sample.jpg)
 
->  Note: If you want to get prebuilt jpg's and pdf's then look at the [Releases](FIXME) page.
+>  Note: If you want to get prebuilt jpg's and pdf's then look at the
+   [Releases](https://github.com/grahamwhaley/bandplan_plotter/releases) page.
 
 ## Overview
 
@@ -72,7 +73,8 @@ This should produce the `allbands.pdf` file.
 
 ## Releases
 
-Pre-built files can be found in the [Releases](FIXME) section.
+Pre-built files can be found in the
+[Releases](https://github.com/grahamwhaley/bandplan_plotter/releases) section.
 
 ## Adding more datasets
 
