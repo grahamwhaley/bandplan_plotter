@@ -8,7 +8,7 @@
 # frequencies, subdivisions and annotations of radio amateur frequency bands,
 # and turns them into a visual bandplan diagram.
 
-version="v1.0"
+version="v1.1"
 
 library(ggplot2)					# ability to plot nicely.
 library(tidyverse)
