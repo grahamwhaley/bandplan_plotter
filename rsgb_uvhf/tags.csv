@@ -1,6 +1,8 @@
 name, start_freq, end_freq
 
 FISTS, 50058, 50058
+QRP, 50060, 50060
+SKCC, 50090, 50090
 DxCall, 50110, 50110
 Xband, 50185, 50185
 PSK, 50305, 50305
